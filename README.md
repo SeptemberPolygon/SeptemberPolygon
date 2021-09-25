@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SeptemberPolygon
+- 👀 I’m interested in cars, computers and football
+- 🌱 I’m currently learning HTML and python
